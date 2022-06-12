@@ -24,11 +24,6 @@ Restaurant:
 	Machine leanring - Facebook prophet for forecasting of customer footfall and demand for next one week
 	Cloud for docker - AWS
 
-# Directory Structure
-	/restaurant-app/main - contains the relevant code for Restaurant Dashboard
-	/restaurant-app/main2 - contains relevant code for User Interface
-	/restaurant-app/backend - contains relevant codes and api's for the backend of the application
-
 # Architecture Diagram
 
 ![Architecture Diagram](/resources/architecture.png)
