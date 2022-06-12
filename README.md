@@ -31,4 +31,4 @@ Restaurant:
 
 # Architecture Diagram
 
-![Architecture Diagram]('resources/architecture.png')
+![Architecture Diagram](/resources/architecture.png)
