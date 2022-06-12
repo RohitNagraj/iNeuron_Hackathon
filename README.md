@@ -17,6 +17,13 @@ Restaurant:
 		Get the following insights based on previous orders at the restaurant:
 			1. On a particular day, the restaurant authorites can view top three dishes in demand for the next 1 week and prepare themselves to serve their customers effectively; and also mange the requirements of the particular food.
 			2. On a specific date, the authorities can also view the footfall of the customers in their restaurants and come up with an effective plan for crowd management.
+			
+Additional Features:
+
+1. Helping restaurant owners convert paper based menus in the restaurants to digital menus on our platform using Google Vision API.
+2. If enabled, this will incentivize restaurant owners, to onboard to this platform quickly as onboarding will be absolutely hassle free for them.
+
+Note: We were half way through this feature, but couldn't complete it due to time constratints.
 
 # Tech Stack Used:
 	Frontend - ReactJS
@@ -27,4 +34,4 @@ Restaurant:
 
 # Architecture Diagram
 
-![Architecture Diagram](/resources/architecture.png)
+![Architecture Diagram](/resources/Architecture_1.png)
