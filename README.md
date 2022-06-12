@@ -1,4 +1,5 @@
 Food dine in application - Scanning particular QR from table user can view the restaurant's menu listing and put the items in cart and place an order.
+Further, we provide intelligent analytics to the restaurants using Artificial Intelligence based forecasting models to predict the custom footfall and the top dishes predicted to be in demand for the coming week.
 
 # Design:
 User:
